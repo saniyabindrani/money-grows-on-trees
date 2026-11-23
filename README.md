@@ -12,7 +12,9 @@ Marketing Brew wrote about brands borrowing ideas from video games for their cam
 
 I wanted to see what that looks like for onboarding. Investing apps in the region do a good job explaining their products. I think there's room for more fun, especially for people who find investing intimidating.
 
-I'm not a gamer. Did the launch of a certain very popular video game have anything to do with this? I couldn't possibly say. I built it as a product marketing experiment for growth.
+The format is inspired by Township, the farming game you've probably seen in mobile ads: plant, harvest, upgrade, come back tomorrow. Those games are built around habits, and habits are what an investing app needs.
+
+Clearly, I'm not a gamer. The only games I play are board games. Did the launch of a certain very popular video game have anything to do with this? I couldn't possibly say. I built it as a product marketing experiment for growth.
 
 ## The growth problem
 
@@ -89,6 +91,12 @@ The bonus code and claim email link a player to their app account, which makes t
 - **Auto-invest setup rate:** Among players who fund
 - **Engagement:** Levels reached, replays per player, scorecard shares
 - **Reward claim rate**, and which barrier answer converts best
+
+## What this doesn't solve (yet)
+
+The game gets someone to make a first deposit and automate it. It doesn't answer the next question a new investor has: what do I actually put my money in?
+
+That's the next onboarding problem, and the game sets it up in two ways. The end screen shows each player's style as a low, medium and high risk mix. The claim form flags everyone who answers "I don't know where to start". In the app, that answer could lead into a short risk quiz and a ready-made starter portfolio, so the first deposit lands somewhere the person understands.
 
 ## Notes
 
